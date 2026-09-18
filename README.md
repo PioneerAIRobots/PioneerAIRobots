@@ -39,7 +39,7 @@ I'm an **AI/ML Engineer and Robotics Specialist** with **6+ years** of experienc
 ```python
 class MansoorAlam:
     role     = "Senior AI/ML Engineer"
-    based_in = "Islamabad, Pakistan 🇵🇰"
+    based_in = "Islamabad, Pakistan"
     focus    = [
         "Medical Imaging AI",
         "LLMs & Vision-Language Models",
@@ -77,17 +77,55 @@ class MansoorAlam:
 
 ## 💼 Experience
 
-```
-2021 ── Present   🏢  Assistant Manager – AI/ML · CESAT, Islamabad
-                      Radar AI · Autonomous mobile robots · Drone detection & tracking
-                      Command & control systems · Leading cross-functional AI teams
+<table>
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://img.shields.io/badge/2021-Present-2ea44f?style=for-the-badge"/>
+</td>
+<td valign="top">
 
-2021              🔬  Research Assistant · Precision Medicine Lab, Peshawar
-                      Medical image analysis · CAD systems · Histopathology segmentation
+### 🏢 Assistant Manager – AI/ML
+**CESAT, Islamabad**
 
-2018 ── 2021      🎓  Higher Education Research Assistant · UET Peshawar
-                      Precision agriculture robotics · Crop/weed vision · Teaching ML & Fuzzy Logic
-```
+- Lead development of AI solutions for **defense and civilian** applications
+- Deep learning for **radar signal processing** and target identification
+- **Autonomous mobile robots** with ROS, SLAM, and navigation in unknown environments
+- Real-time **drone detection, tracking**, and command & control interfaces
+- Managing cross-functional AI/robotics teams
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://img.shields.io/badge/2021-Research-0A66C2?style=for-the-badge"/>
+</td>
+<td valign="top">
+
+### 🔬 Research Assistant
+**Precision Medicine Lab, Peshawar**
+
+- Deep learning for **medical image analysis** (X-ray, CT, MRI, histopathology)
+- **96% accuracy** in esophageal cancer detection with ensemble models
+- Computer-aided diagnosis (CAD) tools optimized for low-resource settings
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://img.shields.io/badge/2018--2021-Academia-8A2BE2?style=for-the-badge"/>
+</td>
+<td valign="top">
+
+### 🎓 Higher Education Research Assistant
+**UET Peshawar**
+
+- Research in **precision agriculture** using AI and robotics
+- Vision-based **crop/weed classification** and variable-rate spraying
+- Taught **Machine Learning** and **Fuzzy Logic** courses
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -193,11 +231,11 @@ Flask platform unifying **medical vision & language models**: segmentation, X-ra
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PioneerAIRobots&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PioneerAIRobots&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=PioneerAIRobots&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PioneerAIRobots&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
