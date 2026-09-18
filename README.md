@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Deep+Learning+%7C+Computer+Vision+%7C+LLMs;Medical+Imaging+AI+%F0%9F%A9%BA;Radar+AI+%26+Signal+Processing+%F0%9F%93%A1;ROS+%7C+SLAM+%7C+Autonomous+Robots+%F0%9F%A4%96;Turning+research+into+real-world+systems" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Deep+Learning+%7C+Computer+Vision+%7C+LLMs;Medical+Imaging+AI+%F0%9F%A9%BA;Signal+Processing+AI+%F0%9F%93%A1;ROS+%7C+SLAM+%7C+Autonomous+Robots+%F0%9F%A4%96;Turning+research+into+real-world+systems" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -43,7 +43,7 @@ I'm an **AI/ML Engineer and Robotics Specialist** with **6+ years** of experienc
   <img src="https://img.shields.io/badge/LLMs%20%26%20Vision--Language-7B2FF7?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Signals%20AI%20%26%20Processing-0077B6?style=for-the-badge&logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/ROS%20%7C%20SLAM%20%7C%20Autonomy-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flying Object%20Detection%20%26%20Tracking-F77F00?style=for-the-badge&logo=dji&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flying%20Object%20Detection%20%26%20Tracking-F77F00?style=for-the-badge&logo=dji&logoColor=white"/>
 </p>
 
 <h3 align="center">📈 At a Glance</h3>
@@ -200,7 +200,7 @@ Flask platform unifying **medical vision & language models**: segmentation, X-ra
 <table>
 <tr>
 <td align="center" width="25%">🩺<br/><b>Medical AI</b><br/><sub>Esophageal & lung cancer, breast cancer, sarcoma, COVID-19</sub></td>
-<td align="center" width="25%">📡<br/><b>Radar & Defense</b><br/><sub>Target detection, drone tracking, command & control</sub></td>
+<td align="center" width="25%">📡<br/><b>Signal Processing</b><br/><sub>Target detection, flying-object tracking, control interfaces</sub></td>
 <td align="center" width="25%">🤖<br/><b>Autonomous Systems</b><br/><sub>SLAM, navigation, obstacle avoidance, mapping</sub></td>
 <td align="center" width="25%">🌾<br/><b>Agri Robotics</b><br/><sub>Crop/weed vision, UAV imagery, precision spraying</sub></td>
 </tr>
@@ -236,16 +236,19 @@ Flask platform unifying **medical vision & language models**: segmentation, X-ra
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PioneerAIRobots&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=PioneerAIRobots&label=Profile%20Visitors&color=0e75b6&style=for-the-badge&abbreviated=false" alt="Profile visitors"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PioneerAIRobots&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📬 Let's Connect
 
 <p align="center">
-  Working on something exciting in <b>AI</b>, <b>robotics</b>, <b>medical imaging</b>, or <b>radar</b>? Let's talk!
+  Working on something exciting in <b>AI</b>, <b>robotics</b>, <b>medical imaging</b>, or <b>signal processing</b>? Let's talk!
   <br/><br/>
   <a href="mailto:robotics.matlab@gmail.com"><img src="https://img.shields.io/badge/robotics.matlab@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mansoor-alam-085b19116/"><img src="https://img.shields.io/badge/mansoor--alam-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
