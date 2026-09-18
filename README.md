@@ -1,114 +1,217 @@
-# 👋 Hi, I'm Mansoor Alam
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mansoor%20Alam&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Senior%20AI%2FML%20Engineer%20%7C%20Robotics%20Specialist&descAlignY=58&descSize=20" width="100%"/>
+</p>
 
-I'm an **AI & Robotics Engineer** at **NSTP (National Science & Technology Park), NUST, Islamabad**, building intelligent systems that connect **perception, learning, and control** to real-world hardware. My work spans **deep learning**, **LLMs & vision-language models**, **computer vision**, **medical imaging AI**, **radar & signal processing**, and **autonomous robotics**.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Deep+Learning+%7C+Computer+Vision+%7C+LLMs;Medical+Imaging+AI+%F0%9F%A9%BA;Radar+AI+%26+Signal+Processing+%F0%9F%93%A1;ROS+%7C+SLAM+%7C+Autonomous+Robots+%F0%9F%A4%96;Turning+research+into+real-world+systems" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:robotics.matlab@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mansoor-alam-085b19116/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=pC3JhXoAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=PioneerAIRobots&style=for-the-badge&color=00d4ff&label=Profile+Views"/>
+</p>
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
-- 🔭 I'm currently working on **medical imaging AI**, **vision-language models**, **radar-based perception**, and **ROS 2 autonomous systems**, from research prototypes to deployable applications.
-- 🌾 My research started in **agricultural robotics**, building vision-guided robot sprayers that detect crops and weeds in real time.
-- 🤝 I collaborate with the **Department of Computer Science, Dalian Maritime University, China**.
-- 👯 Open to collaborations in **AI, robotics, computer vision, and signal processing**, in research or industry.
-- 📫 **Contact**: <robotics.matlab@gmail.com>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" alt="ros" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+I'm an **AI/ML Engineer and Robotics Specialist** with **6+ years** of experience building AI that works outside the lab, from **cancer detection** in hospitals to **radar target tracking**, **autonomous navigation**, and **precision-agriculture robots** in the field.
+
+- 🏢 **Assistant Manager – AI/ML** at **CESAT, Islamabad**
+- 🔬 Research in **medical AI** and **agricultural robotics**
+- 🎯 **96% accuracy** in esophageal cancer detection from low-cost histopathology
+- 🌾 **52% less pesticide** with our vision-guided robot sprayer
+- 🏆 **Best Employee of the Year** (2023)
+- 🤝 Open to research & industry collaborations
+
+</td>
+<td width="45%" valign="top">
+
+```python
+class MansoorAlam:
+    role     = "Senior AI/ML Engineer"
+    based_in = "Islamabad, Pakistan 🇵🇰"
+    focus    = [
+        "Medical Imaging AI",
+        "LLMs & Vision-Language Models",
+        "Radar AI & Signal Processing",
+        "ROS / SLAM / Autonomy",
+        "Drone Detection & Tracking",
+    ]
+    papers   = 5
+    motto    = "Build it. Deploy it. Improve it."
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,pytorch,tensorflow,sklearn,opencv&perline=7" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ros,linux,docker,git,flask,raspberrypi,androidstudio&perline=7" />
 </p>
+
+| Domain | Technologies | Level |
+|:--|:--|:--:|
+| 🧠 **AI / ML** | TensorFlow · PyTorch · Keras · Scikit-Learn · CNN · LSTM · GAN · Transformers | ⭐⭐⭐⭐⭐ |
+| 👁️ **Computer Vision** | OpenCV · YOLO · Faster R-CNN · Mask R-CNN · Semantic Segmentation · Tracking | ⭐⭐⭐⭐⭐ |
+| 🤖 **Robotics** | ROS / ROS 2 · SLAM · Navigation · Path Planning · Sensor Fusion · Gazebo | ⭐⭐⭐⭐⭐ |
+| 🩺 **Medical AI** | Histopathology · X-ray / CT / MRI · CAD Systems · Diagnostic Tools | ⭐⭐⭐⭐ |
+| 📡 **Radar & Signals** | Radar Signal Processing · Target Detection · FMCW · MATLAB/Simulink | ⭐⭐⭐⭐ |
+
+---
+
+## 💼 Experience
+
+```
+2021 ── Present   🏢  Assistant Manager – AI/ML · CESAT, Islamabad
+                      Radar AI · Autonomous mobile robots · Drone detection & tracking
+                      Command & control systems · Leading cross-functional AI teams
+
+2021              🔬  Research Assistant · Precision Medicine Lab, Peshawar
+                      Medical image analysis · CAD systems · Histopathology segmentation
+
+2018 ── 2021      🎓  Higher Education Research Assistant · UET Peshawar
+                      Precision agriculture robotics · Crop/weed vision · Teaching ML & Fuzzy Logic
+```
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [**LLM_Models**](https://github.com/PioneerAIRobots/LLM_Models) | Towards a foundation model for **chest X-ray interpretation** with vision-language models | Python · Jupyter |
-| [**AI-Powered Patient Fall Detection System**](https://github.com/PioneerAIRobots/AI-Powered-Patient-Fall-Detection-System) | Computer-vision fall detection for hospitals, elder-care, and rehab centers | Python · OpenCV |
-| [**PointNet 3D Object Classification**](https://github.com/PioneerAIRobots/PointNet-3D-Object-Classification-System) | End-to-end deep learning app classifying 3D objects directly from **point clouds** | PyTorch · Web |
-| [**Malware Detection using ML**](https://github.com/PioneerAIRobots/Malware-Detection-using-Machine-Learning) | Detects malicious executables using **static PE-file features** | Python · scikit-learn |
-| [**multiomics**](https://github.com/PioneerAIRobots/multiomics) | Machine-learning classification of **multi-omic** biological data | Python · Jupyter |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-📂 See all repositories → [github.com/PioneerAIRobots](https://github.com/PioneerAIRobots?tab=repositories)
+### 🫁 [LLM_Models](https://github.com/PioneerAIRobots/LLM_Models)
+Towards a **foundation model for chest X-ray interpretation** using vision-language models.
 
----
+`Python` `VLM` `Medical AI`
 
-## 🩺 Medical Imaging AI
+</td>
+<td width="50%" valign="top">
 
-I build deep learning systems that turn medical images into clinically useful outputs: segmentation, classification, and automated reporting.
+### 🧓 [Patient Fall Detection](https://github.com/PioneerAIRobots/AI-Powered-Patient-Fall-Detection-System)
+Real-time **computer-vision fall detection** for hospitals, elder-care and rehab centers.
 
-- 🧬 **MedAgent**: a Flask-based medical imaging platform integrating multiple vision and language models in one interface.
-- 🩻 Web apps for **MedSAM2 segmentation**, **dental X-ray analysis**, **blood cell classification**, **COPD** and **Parkinson's detection**, and **protein structure prediction (ESMFold)**.
-- 🔬 **Breast ultrasound multimodal pipeline** with **cross-attention fusion** and automatic report generation.
-- 🧪 **PeakFormer**: a hybrid **CNN-ViT** model for mass spectrometry peak classification.
+`Python` `OpenCV` `Deep Learning`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 📡 Radar, Signal Processing & SatCom
+### 🧊 [PointNet 3D Classification](https://github.com/PioneerAIRobots/PointNet-3D-Object-Classification-System)
+End-to-end app classifying 3D objects directly from **point clouds**.
 
-- 📶 Complete **FMCW radar signal processing pipeline** for human detection, including work on the **TinyRad 24 GHz** evaluation board.
-- 🛰️ **DVB-S2X satellite ranging simulation** in MATLAB using **Two-Way Time Transfer**.
-- 🔊 **SpatioConformer-SELD**: a novel **Sound Event Localization and Detection** architecture.
-- 🎛️ Certified on the **Zurich Instruments MFLI Lock-in Amplifier**.
+`PyTorch` `PointNet` `3D Vision`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🤖 Robotics, Drones & Autonomous Systems
+### 🛡️ [Malware Detection using ML](https://github.com/PioneerAIRobots/Malware-Detection-using-Machine-Learning)
+Detects malicious executables from **static PE-file features**.
 
-- 🌾 **Vision-based agricultural robot sprayer**: real-time crop/weed detection driving variable-rate PWM spraying in the field.
-- 🚁 **Fixed-wing drone simulation** with **ROS 2 + PX4 + Gazebo**.
-- 🧍 **ROS 2 LiDAR-based human detection** system.
-- 🎯 **PTZ camera tracking** with trajectory prediction, and a pure-mathematics object tracker for drone footage.
-- 🛡️ Interactive **C-UAS sensor layout** planning tool.
+`Python` `Scikit-Learn` `Security`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 🔧 Technologies & Tools
+### 🧬 [Multiomics Classification](https://github.com/PioneerAIRobots/multiomics)
+Machine-learning classification of **multi-omic** biological data.
 
-- **Languages**: Python, C++, MATLAB, Bash
-- **Deep Learning**: PyTorch, TensorFlow, CNNs, Vision Transformers, LLMs/VLMs, GNNs, YOLO, Faster R-CNN, SAM
-- **Robotics**: ROS / ROS 2, Gazebo, PX4, RViz2
-- **Signal Processing**: MATLAB/Simulink, FMCW radar, DVB-S2X, audio/SELD
-- **Deployment**: Flask, FFmpeg, Docker, Raspberry Pi, Android
-- **Tools**: Git, Anaconda, Jupyter, VS Code, Linux / Windows
+`Python` `ML` `Bioinformatics`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 📄 Selected Publications
+### 🩺 MedAgent
+Flask platform unifying **medical vision & language models**: segmentation, X-ray, blood cells, COPD, Parkinson's.
 
-- **TobSet: A New Tobacco Crop and Weeds Image Dataset and Its Utilization for Vision-Based Spraying by Agricultural Robots**  
-  *Applied Sciences (MDPI), 2022* · [DOI: 10.3390/app12031308](https://doi.org/10.3390/app12031308)
+`Flask` `MedSAM2` `Multi-model`
 
-- **Real-Time Machine-Learning Based Crop/Weed Detection and Classification for Variable-Rate Spraying in Precision Agriculture**  
-  *IEEE ICEEE, 2020* · [DOI: 10.1109/ICEEE49618.2020.9102505](https://doi.org/10.1109/ICEEE49618.2020.9102505)
-
-<!-- Add your remaining papers here in the same format -->
-
-📚 Full list on [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=pC3JhXoAAAAJ)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📬 Let's Connect!
+## 🔬 Research Areas
 
-If you're working on something exciting in **AI**, **robotics**, **medical imaging**, or **signal processing**, I'd love to hear from you!
-
-📧 **Email**: <robotics.matlab@gmail.com>  
-💼 **LinkedIn**: [linkedin.com/in/mansoor-alam-085b19116](https://www.linkedin.com/in/mansoor-alam-085b19116/)  
-🎓 **Google Scholar**: [Mansoor Alam](https://scholar.google.com/citations?hl=en&user=pC3JhXoAAAAJ)  
-🌍 **Location**: Islamabad, Pakistan (open to remote opportunities)
+<table>
+<tr>
+<td align="center" width="25%">🩺<br/><b>Medical AI</b><br/><sub>Esophageal & lung cancer, breast cancer, sarcoma, COVID-19</sub></td>
+<td align="center" width="25%">📡<br/><b>Radar & Defense</b><br/><sub>Target detection, drone tracking, command & control</sub></td>
+<td align="center" width="25%">🤖<br/><b>Autonomous Systems</b><br/><sub>SLAM, navigation, obstacle avoidance, mapping</sub></td>
+<td align="center" width="25%">🌾<br/><b>Agri Robotics</b><br/><sub>Crop/weed vision, UAV imagery, precision spraying</sub></td>
+</tr>
+</table>
 
 ---
 
-*"Intelligence is most useful when it can see, sense, and act in the real world. Let's build it together."*
+## 📄 Publications
+
+| Year | Paper | Highlight |
+|:--:|:--|:--|
+| 2022 | [**Using low-resolution, low-cost histopathology images to predict esophageal squamous cell carcinoma via deep learning**](https://scholar.google.com/citations?hl=en&user=pC3JhXoAAAAJ) | 🎯 96% accuracy (ensemble) |
+| 2022 | [**TobSet: A New Tobacco Crop and Weeds Image Dataset and Its Utilization for Vision-Based Spraying by Agricultural Robots**](https://doi.org/10.3390/app12031308) · *Applied Sciences* | 🌱 52% less pesticide |
+| 2021 | [**A Highly Reliable CNN Based Soft Tissue Sarcoma Metastasis Detection from Chest X-ray Images**](https://scholar.google.com/citations?hl=en&user=pC3JhXoAAAAJ) | 🩻 91.2% accuracy |
+| 2021 | [**A Novel Semi-supervised Framework for UAV Based Crop/Weed Classification**](https://scholar.google.com/citations?hl=en&user=pC3JhXoAAAAJ) | 🚁 90% with 80% unlabeled data |
+| 2020 | [**Real-Time Machine Learning Based Crop/Weed Detection and Classification for Variable-Rate Spraying in Precision Agriculture**](https://doi.org/10.1109/ICEEE49618.2020.9102505) · *IEEE ICEEE* | ⚡ Real-time field deployment |
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?hl=en&user=pC3JhXoAAAAJ"><img src="https://img.shields.io/badge/View%20all%20on-Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+</p>
+
+---
+
+## 🏆 Honors & Awards
+
+- 🥇 **Best Employee of the Year** (2023)
+- 🎓 **Fully Funded HEC Scholarship** for MS degree (2017)
+- 📚 **Research Excellence Awards** for multiple publications
+- 🏅 **Best Project Awards** in AI and robotics competitions
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PioneerAIRobots&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PioneerAIRobots&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PioneerAIRobots&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  Working on something exciting in <b>AI</b>, <b>robotics</b>, <b>medical imaging</b>, or <b>radar</b>? Let's talk!
+  <br/><br/>
+  <a href="mailto:robotics.matlab@gmail.com"><img src="https://img.shields.io/badge/robotics.matlab@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mansoor-alam-085b19116/"><img src="https://img.shields.io/badge/mansoor--alam-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Islamabad,%20Pakistan-Open%20to%20Remote-2ea44f?style=flat-square"/>
+</p>
+
+<p align="center"><i>"Intelligence is most useful when it can see, sense, and act in the real world. Let's build it together."</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
