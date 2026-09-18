@@ -26,7 +26,7 @@
 
 I'm an **AI/ML Engineer and Robotics Specialist** with **6+ years** of experience building AI that works outside the lab, from **cancer detection** in hospitals to **radar target tracking**, **autonomous navigation**, and **precision-agriculture robots** in the field.
 
-- 🏢 **Assistant Manager – AI/ML** at **CESAT, Islamabad**
+- 🏢 **Assistant Manager – AI/ML** at **NSTP, Islamabad**
 - 🔬 Research in **medical AI** and **agricultural robotics**
 - 🎯 **96% accuracy** in esophageal cancer detection from low-cost histopathology
 - 🌾 **52% less pesticide** with our vision-guided robot sprayer
