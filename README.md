@@ -24,7 +24,7 @@
 <tr>
 <td width="55%" valign="top">
 
-I'm an **AI/ML Engineer and Robotics Specialist** with **6+ years** of experience building AI that works outside the lab, from **cancer detection** in hospitals to **radar target tracking**, **autonomous navigation**, and **precision-agriculture robots** in the field.
+I'm an **AI/ML Engineer and Robotics Specialist** with **6+ years** of experience building AI that works outside the lab, from **cancer detection** in hospitals to **signal target tracking**, **autonomous navigation**, and **precision-agriculture robots** in the field.
 
 - 🏢 **Assistant Manager – AI/ML** at **NSTP, Islamabad**
 - 🔬 Research in **medical AI** and **agricultural robotics**
@@ -41,9 +41,9 @@ I'm an **AI/ML Engineer and Robotics Specialist** with **6+ years** of experienc
 <p align="center">
   <img src="https://img.shields.io/badge/Medical%20Imaging%20AI-E63946?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLMs%20%26%20Vision--Language-7B2FF7?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Radar%20AI%20%26%20Signals-0077B6?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Signals%20AI%20%26%20Processing-0077B6?style=for-the-badge&logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/ROS%20%7C%20SLAM%20%7C%20Autonomy-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Drone%20Detection%20%26%20Tracking-F77F00?style=for-the-badge&logo=dji&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flying Object%20Detection%20%26%20Tracking-F77F00?style=for-the-badge&logo=dji&logoColor=white"/>
 </p>
 
 <h3 align="center">📈 At a Glance</h3>
@@ -76,7 +76,7 @@ I'm an **AI/ML Engineer and Robotics Specialist** with **6+ years** of experienc
 | 👁️ **Computer Vision** | OpenCV · YOLO · Faster R-CNN · Mask R-CNN · Semantic Segmentation · Tracking | ⭐⭐⭐⭐⭐ |
 | 🤖 **Robotics** | ROS / ROS 2 · SLAM · Navigation · Path Planning · Sensor Fusion · Gazebo | ⭐⭐⭐⭐⭐ |
 | 🩺 **Medical AI** | Histopathology · X-ray / CT / MRI · CAD Systems · Diagnostic Tools | ⭐⭐⭐⭐ |
-| 📡 **Radar & Signals** | Radar Signal Processing · Target Detection · FMCW · MATLAB/Simulink | ⭐⭐⭐⭐ |
+| 📡 **Signals Processing** | Signal Processing · Target Detection · FMCW · MATLAB/Simulink | ⭐⭐⭐⭐ |
 
 ---
 
@@ -90,12 +90,12 @@ I'm an **AI/ML Engineer and Robotics Specialist** with **6+ years** of experienc
 <td valign="top">
 
 ### 🏢 Assistant Manager – AI/ML
-**CESAT, Islamabad**
+**NSTP, Islamabad**
 
-- Lead development of AI solutions for **defense and civilian** applications
-- Deep learning for **radar signal processing** and target identification
+- Lead development of AI solutions for **civilian** applications
+- Deep learning for **signal processing** and target identification
 - **Autonomous mobile robots** with ROS, SLAM, and navigation in unknown environments
-- Real-time **drone detection, tracking**, and command & control interfaces
+- Real-time **Flying object detection, tracking**, and command & control interfaces
 - Managing cross-functional AI/robotics teams
 
 </td>
