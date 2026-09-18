@@ -36,20 +36,25 @@ I'm an **AI/ML Engineer and Robotics Specialist** with **6+ years** of experienc
 </td>
 <td width="45%" valign="top">
 
-```python
-class MansoorAlam:
-    role     = "Senior AI/ML Engineer"
-    based_in = "Islamabad, Pakistan"
-    focus    = [
-        "Medical Imaging AI",
-        "LLMs & Vision-Language Models",
-        "Radar AI & Signal Processing",
-        "ROS / SLAM / Autonomy",
-        "Drone Detection & Tracking",
-    ]
-    papers   = 5
-    motto    = "Build it. Deploy it. Improve it."
-```
+<h3 align="center">🎯 Current Focus</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Medical%20Imaging%20AI-E63946?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs%20%26%20Vision--Language-7B2FF7?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Radar%20AI%20%26%20Signals-0077B6?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS%20%7C%20SLAM%20%7C%20Autonomy-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Drone%20Detection%20%26%20Tracking-F77F00?style=for-the-badge&logo=dji&logoColor=white"/>
+</p>
+
+<h3 align="center">📈 At a Glance</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-2ea44f?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Publications-5-4285F4?style=flat-square"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Based%20in-Islamabad%2C%20Pakistan-01411C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open%20to-Remote-8A2BE2?style=flat-square"/>
+</p>
 
 </td>
 </tr>
@@ -234,9 +239,6 @@ Flask platform unifying **medical vision & language models**: segmentation, X-ra
   <img src="https://streak-stats.demolab.com?user=PioneerAIRobots&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PioneerAIRobots&theme=tokyo-night&hide_border=true&area=true" />
-</p>
 
 ---
 
