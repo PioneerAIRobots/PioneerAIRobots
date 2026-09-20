@@ -62,6 +62,21 @@ I'm an **AI/ML Engineer and Robotics Specialist** with **6+ years** of experienc
 
 ---
 
+## 🤖 Robotics in Motion
+
+<table>
+<tr>
+<td align="center" width="50%"><img src="assets/robot-arm.svg" width="100%" alt="Robotic arm animation"/></td>
+<td align="center" width="50%"><img src="assets/humanoid.svg" width="100%" alt="Humanoid robot animation"/></td>
+</tr>
+<tr>
+<td align="center" width="50%"><img src="assets/robot-dog.svg" width="100%" alt="Quadruped robot animation"/></td>
+<td align="center" width="50%"><img src="assets/path-planning.svg" width="100%" alt="A* path planning animation"/></td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
