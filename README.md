@@ -66,12 +66,12 @@ I'm an **AI/ML Engineer and Robotics Specialist** with **6+ years** of experienc
 
 <table>
 <tr>
-<td align="center" width="50%"><img src="assets/robot-arm.svg" width="100%" alt="Robotic arm animation"/></td>
-<td align="center" width="50%"><img src="assets/humanoid.svg" width="100%" alt="Humanoid robot animation"/></td>
+<td align="center" width="50%"><img src="robot-arm.gif" width="100%" alt="Robotic arm"/><br/><b>🦾 Robotic Manipulation</b></td>
+<td align="center" width="50%"><img src="humanoid.gif" width="100%" alt="Humanoid robot"/><br/><b>🧍 Humanoid Robotics</b></td>
 </tr>
 <tr>
-<td align="center" width="50%"><img src="assets/robot-dog.svg" width="100%" alt="Quadruped robot animation"/></td>
-<td align="center" width="50%"><img src="assets/path-planning.svg" width="100%" alt="A* path planning animation"/></td>
+<td align="center" width="50%"><img src="robot-dog.gif" width="100%" alt="Quadruped robot"/><br/><b>🐕 Legged Locomotion</b></td>
+<td align="center" width="50%"><img src="path-planning.gif" width="100%" alt="ROS path planning"/><br/><b>🗺️ ROS Navigation & Path Planning</b></td>
 </tr>
 </table>
 
