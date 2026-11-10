@@ -78,15 +78,15 @@ I'm an **AI/ML Engineer and Robotics Specialist** with **6+ years** of experienc
 ---
 ---
 
-## 🤖 AI in Tracking and detection
+## 🤖 AI in Tracking and Detection
 
 <table>
 <tr>
-<td alt="Fast Object Tracking "/><br/><b>🦾AI tracker models</b></td>
-<td alt=" Object Detector"/><br/><b>🧍 AI Detector models </b></td>
+<td alt="Fast Object Tracking "/><br/><b>🦾AI Tracker Models</b></td>
+<td alt=" Object Detector"/><br/><b>🧍 AI Detector Models </b></td>
 </tr>
 <tr>
-<td alt="Classification"/><br/><b>🐕 AI classification models </b></td>
+<td alt="Classification"/><br/><b>🐕 AI classification Models </b></td>
 <td alt="Segmentation"/><br/><b>🗺️ Semantic and Instance Segmentation Models</b></td>
 </tr>
 </table>
